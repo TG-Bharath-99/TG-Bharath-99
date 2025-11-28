@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishnu Vardhan
+# 👋 Hi, I'm Bharath
 
 🎓 **MERN Stack Developer**  
 💻 Passionate about building scalable full-stack applications  
