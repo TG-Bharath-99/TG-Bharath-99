@@ -1,18 +1,16 @@
 # 👋 Hi, I'm Bharath
 
-🎓 **B.Tech 2nd Year Student @ SASTRA Deemed University, Kumbakonam**  
-💻 Programmer | Problem Solver | ML Enthusiast  
-🌱 Learning and building with focus on **DSA, Software Development & Machine Learning**
+🎓 B.Tech CSE Student @ SASTRA Deemed University, Kumbakonam  
+🌐 MERN Stack Developer | DSA | Machine Learning Enthusiast
 
 ---
 
 ## 🚀 About Me
+
 - 🎓 Computer Science Engineering student
-- 💡 Strong in problem solving & logical thinking
-- 👨‍💻 Programming in **C, C++, Java & Python**
-- 🤖 Built a **Machine Learning project on Text Extraction**
-- 🎯 Target: Become a **Software Engineer / ML Engineer**
-- ⚡ Loves coding at night 🌙
+- 🌐 Building full-stack web applications using the MERN stack
+- ☕ Practicing Data Structures & Algorithms using Java
+- 🎯 Interested in Software Engineering and Machine Learning
 
 ---
 
@@ -23,10 +21,19 @@
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ---
 
-### 🤖 Machine Learning / Libraries
+### 🌐 MERN Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+---
+
+### 🤖 Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
@@ -40,23 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TG-Bharath-99&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TG-Bharath-99&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TG-Bharath-99&theme=radical)
+## 🌐 Connect With Me
 
----
-
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/TG-Bharath-99/TG-Bharath-99/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-ummadi-0a0998378)
-
----
-
-✨ _Thanks for visiting my profile!_ ✨
-
-✨ _Thanks for visiting my profile!_ ✨
